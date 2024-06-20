@@ -1,3 +1,3 @@
-# OneiMoment.github.io
+# oneimoment.github.io
 
 OneiMoment Website and Services
