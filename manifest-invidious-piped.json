@@ -4,29 +4,29 @@
       "app": "Piped",
       "region": "Europe",
       "country": "Kavin Rocks",
-      "flag": "🇫🇮",
+      "flag": "🇮🇳",
       "url": "https://pipedapi.kavin.rocks"
     },
     {
       "app": "Piped",
       "region": "Europe",
       "country": "Kavin Rocks Libre",
-      "flag": "🇩🇪",
+      "flag": "🇳🇱",
       "url": "https://pipedapi-libre.kavin.rocks"
     },
     {
-      "app": "Invidious",
+      "app": "Piped",
       "region": "Europe",
-      "country": "Germany",
-      "flag": "🇩🇪",
-      "url": "https://y.com.sb"
+      "country": "Darkness Services",
+      "flag": "🇺🇸",
+      "url": "https://pipedapi.darkness.services"
     },
     {
-      "app": "Invidious",
+      "app": "Piped",
       "region": "Europe",
-      "country": "Germany",
+      "country": "R4fo",
       "flag": "🇩🇪",
-      "url": "https://invidious.nerdvpn.de"
+      "url": "https://pipedapi.r4fo.com"
     },
     {
       "app": "Invidious",
