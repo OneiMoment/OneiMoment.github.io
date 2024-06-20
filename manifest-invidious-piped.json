@@ -4,7 +4,7 @@
       "app": "Piped",
       "region": "Europe",
       "country": "1 Kavin Rocks",
-      "flag": "🇮🇳",
+      "flag": "🇺🇸, 🇮🇳, 🇳🇱, 🇨🇦, 🇬🇧, 🇫🇷",
       "url": "https://pipedapi.kavin.rocks"
     },
     {
@@ -29,46 +29,46 @@
       "url": "https://pipedapi.r4fo.com"
     },
     {
-      "app": "Invidious",
+      "app": "Piped",
       "region": "Europe",
-      "country": "Greece",
-      "flag": "🇬🇷",
-      "url": "https://invidious.projectsegfau.lt"
+      "country": "5 Sync Pundit",
+      "flag": "🇬🇷🇺🇸, 🇮🇳, 🇬🇧, 🇯🇵",
+      "url": "https://pipedapi.syncpundit.io"
     },
     {
       "app": "Piped",
       "region": "Asia",
-      "country": "India",
-      "flag": "🇮🇳",
-      "url": "https://pipedapi.kavin.rocks"
+      "country": "6 Lunar icu",
+      "flag": "🇩🇪",
+      "url": "https://piped-api.lunar.icu"
     },
     {
       "app": "Piped",
       "region": "Asia",
-      "country": "India",
-      "flag": "🇮🇳",
-      "url": "https://invidious-eu01.yattee.stream"
+      "country": "7 Smnz de",
+      "flag": "🇩🇪",
+      "url": "https://pipedapi.smnz.de"
     },
     {
       "app": "Piped",
       "region": "Asia",
-      "country": "Japan",
-      "flag": "🇯🇵",
-      "url": "https://invidious-eu01.yattee.stream"
+      "country": "8 Private Coffee",
+      "flag": "🇦🇹",
+      "url": "https://api.piped.private.coffee"
     },
     {
-      "app": "Invidious",
+      "app": "Piped",
       "region": "Europe",
-      "country": "Netherlands",
-      "flag": "🇳🇱",
-      "url": "https://invidious-eu01.yattee.stream"
+      "country": "9 Phoenixthrush",
+      "flag": "🇩🇪",
+      "url": "https://pipedapi.phoenixthrush.com"
     },
     {
-      "app": "Invidious",
+      "app": "Piped",
       "region": "Europe",
-      "country": "Romania",
-      "flag": "🇷🇴",
-      "url": "https://invidious-eu01.yattee.stream"
+      "country": "10 Reallyaweso Me",
+      "flag": "🇩🇪",
+      "url": "https://pipedapi.reallyaweso.me"
     },
     {
       "app": "Piped",
