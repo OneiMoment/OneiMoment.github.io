@@ -3,100 +3,128 @@
     {
       "app": "Piped",
       "region": "Europe",
-      "country": "01 Kavin Rocks",
+      "country": "01 Kavin Rocks CDN",
       "flag": "🇺🇸, 🇮🇳, 🇳🇱, 🇨🇦, 🇬🇧, 🇫🇷",
       "url": "https://pipedapi.kavin.rocks"
     },
     {
       "app": "Piped",
       "region": "Europe",
-      "country": "02 Kavin Rocks Libre",
+      "country": "02 Kavin Rocks Libre 🇳🇱",
       "flag": "🇳🇱",
       "url": "https://pipedapi-libre.kavin.rocks"
     },
     {
       "app": "Piped",
       "region": "Europe",
-      "country": "03 Darkness Services",
+      "country": "03 Darkness Services 🇺🇸",
       "flag": "🇺🇸",
       "url": "https://pipedapi.darkness.services"
     },
     {
       "app": "Piped",
       "region": "Europe",
-      "country": "04 R4fo",
+      "country": "04 R4fo 🇩🇪",
       "flag": "🇩🇪",
       "url": "https://pipedapi.r4fo.com"
     },
     {
       "app": "Piped",
       "region": "Europe",
-      "country": "05 Sync Pundit",
+      "country": "05 Sync Pundit CDN",
       "flag": "🇬🇷🇺🇸, 🇮🇳, 🇬🇧, 🇯🇵",
       "url": "https://pipedapi.syncpundit.io"
     },
     {
       "app": "Piped",
       "region": "Asia",
-      "country": "06 Lunar icu",
+      "country": "06 Lunar icu 🇩🇪",
       "flag": "🇩🇪",
       "url": "https://piped-api.lunar.icu"
     },
     {
       "app": "Piped",
       "region": "Asia",
-      "country": "07 Smnz de",
+      "country": "07 Smnz de 🇩🇪",
       "flag": "🇩🇪",
       "url": "https://pipedapi.smnz.de"
     },
     {
       "app": "Piped",
       "region": "Asia",
-      "country": "08 Private Coffee",
+      "country": "08 Private Coffee 🇦🇹",
       "flag": "🇦🇹",
       "url": "https://api.piped.private.coffee"
     },
     {
       "app": "Piped",
       "region": "Europe",
-      "country": "09 Phoenixthrush",
+      "country": "09 Phoenixthrush 🇩🇪",
       "flag": "🇩🇪",
       "url": "https://pipedapi.phoenixthrush.com"
     },
     {
       "app": "Piped",
       "region": "Europe",
-      "country": "10 Reallyaweso Me",
+      "country": "10 Reallyaweso Me 🇩🇪",
       "flag": "🇩🇪",
       "url": "https://pipedapi.reallyaweso.me"
     },
     {
       "app": "Piped",
       "region": "Europe",
-      "country": "United Kingdom",
-      "flag": "🇬🇧",
-      "url": "https://pipedapi.moomoo.me"
+      "country": "11 Astartes nl 🇳🇱",
+      "flag": "🇳🇱",
+      "url": "https://pipedapi.astartes.nl"
     },
     {
       "app": "Piped",
       "region": "Europe",
-      "country": "United Kingdom",
-      "flag": "🇬🇧",
-      "url": "https://pipedapi.moomoo.me"
-    },
-    {
-      "app": "Invidious",
-      "region": "North America",
-      "country": "United States",
-      "flag": "🇺🇸",
-      "url": "https://vid.puffyan.us"
+      "country": "12 Piped yt 🇩🇪",
+      "flag": "🇩🇪",
+      "url": "https://api.piped.yt"
     },
     {
       "app": "Piped",
       "region": "North America",
-      "country": "United States",
+      "country": "13 Projects Egfau lt in 🇮🇳",
+      "flag": "🇮🇳",
+      "url": "https://pipedapi.in.projectsegfau.lt"
+    },
+    {
+      "app": "Piped",
+      "region": "North America",
+      "country": "14 Projects Egfau lt us 🇺🇸",
       "flag": "🇺🇸",
-      "url": "https://papius.palash.dev"
+      "url": "https://pipedapi.us.projectsegfau.lt"
+    },
+    {
+      "app": "Piped",
+      "region": "North America",
+      "country": "15 Ngn tf 🇹🇷",
+      "flag": "🇹🇷",
+      "url": "https://pipedapi.ngn.tf"
+    },
+    {
+      "app": "Piped",
+      "region": "North America",
+      "country": "16 Drgns Space 🇺🇸",
+      "flag": "🇺🇸",
+      "url": "https://pipedapi.drgns.space"
+    },
+    {
+      "app": "Piped",
+      "region": "North America",
+      "country": "17 Admin Forge de 🇩🇪",
+      "flag": "🇩🇪",
+      "url": "https://pipedapi.adminforge.de"
+    },
+    {
+      "app": "Piped",
+      "region": "North America",
+      "country": "15 Ngn tf 🇹🇷",
+      "flag": "🇹🇷",
+      "url": "https://pipedapi.ngn.tf"
     },
     {
       "app": "Invidious",
