@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AhlAlquranTV.sa",Ahl-Alquran TV (360p)
-https://www.enterweb.tv:25463/live/ssadtv/live-tv/1.m3u8
-#EXTINF:-1 tvg-id="AlEkhbariya.sa",Al Ekhbariya (1080p)
-https://al-ekhbaria-prod-dub.shahid.net/out/v1/d443f3203b444032896e3233cb6eaa84/index.m3u8
-#EXTINF:-1 tvg-id="AlEkhbariya.sa",Al Ekhbariya (1080p) [Not 24/7]
-https://edge.taghtia.com/sa/4.m3u8
-#EXTINF:-1 tvg-id="AlKhalijTV.sa",Al Khalij (720p) [Not 24/7]
-https://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8
 #EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa",Al Quran Al Kareem TV (Mecca) (1080p) [Not 24/7]
 https://edge.taghtia.com/sa/7.m3u8
 #EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa",Al Quran Al Kareem TV (Mecca) (720p) [Not 24/7]
@@ -15,6 +7,12 @@ http://m.live.net.sa:1935/live/quran/playlist.m3u8
 https://edge.taghtia.com/sa/6.m3u8
 #EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa",Al Sunnah Al Nabawiyah TV (Medina) (720p) [Not 24/7]
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
+#EXTINF:-1 tvg-id="AhlAlquranTV.sa",Ahl-Alquran TV (360p)
+https://www.enterweb.tv:25463/live/ssadtv/live-tv/1.m3u8
+#EXTINF:-1 tvg-id="AlEkhbariya.sa",Al Ekhbariya (1080p)
+https://al-ekhbaria-prod-dub.shahid.net/out/v1/d443f3203b444032896e3233cb6eaa84/index.m3u8
+#EXTINF:-1 tvg-id="AlEkhbariya.sa",Al Ekhbariya (1080p) [Not 24/7]
+https://edge.taghtia.com/sa/4.m3u8
 #EXTINF:-1 tvg-id="AlRiyadhRadio.sa",Al Riyadh Radio (720p)
 https://edge.taghtia.com/sa/12.m3u8
 #EXTINF:-1 tvg-id="AlSaudiya.sa",Al Saudiya (1080p) [Not 24/7]
