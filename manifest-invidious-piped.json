@@ -122,9 +122,16 @@
     {
       "app": "Piped",
       "region": "North America",
-      "country": "Ngn tf 🇹🇷",
-      "flag": "🇹🇷",
-      "url": "https://pipedapi.ngn.tf"
+      "country": "18 Privacy Dev net 🇫🇷",
+      "flag": "🇫🇷",
+      "url": "https://api.piped.privacydev.net"
+    },
+    {
+      "app": "Piped",
+      "region": "North America",
+      "country": "19 Aosus Link 🇩🇪",
+      "flag": "🇩🇪",
+      "url": "https://api.piped.aosus.link"
     },
     {
       "app": "Invidious",
