@@ -134,6 +134,27 @@
       "url": "https://api.piped.aosus.link"
     },
     {
+      "app": "Piped",
+      "region": "North America",
+      "country": "20 Andreafortuna org",
+      "flag": "🇩🇪",
+      "url": "https://pipedapi.andreafortuna.org"
+    },
+    {
+      "app": "Invidious",
+      "region": "North America",
+      "country": "21 Perennialte ch 🇦🇺",
+      "flag": "🇦🇺",
+      "url": "https://invidious.perennialte.ch"
+    },
+    {
+      "app": "Invidious",
+      "region": "North America",
+      "country": "22 Flokinet to 🇷🇴",
+      "flag": "🇷🇴",
+      "url": "https://invidious.flokinet.to"
+    },
+    {
       "app": "Invidious",
       "region": "North America",
       "country": "United States",
