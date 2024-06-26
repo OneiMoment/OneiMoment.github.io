@@ -157,6 +157,27 @@
     {
       "app": "Invidious",
       "region": "North America",
+      "country": "23 Projectsegfau lt 🇮🇳",
+      "flag": "🇮🇳",
+      "url": "https://inv.in.projectsegfau.lt"
+    },
+    {
+      "app": "Invidious",
+      "region": "North America",
+      "country": "24 Reallyaweso Me 🇩🇪",
+      "flag": "🇩🇪",
+      "url": "https://invidious.reallyaweso.me"
+    },
+    {
+      "app": "Invidious",
+      "region": "North America",
+      "country": "United States",
+      "flag": "🇺🇸",
+      "url": "https://inv.riverside.rocks"
+    },
+    {
+      "app": "Invidious",
+      "region": "North America",
       "country": "United States",
       "flag": "🇺🇸",
       "url": "https://inv.riverside.rocks"
