@@ -143,6 +143,13 @@
     {
       "app": "Invidious",
       "region": "North America",
+      "country": "21 Perennialte ch 🇦🇺",
+      "flag": "🇦🇺",
+      "url": "https://invidious.perennialte.ch"
+    },
+    {
+      "app": "Invidious",
+      "region": "North America",
       "country": "United States",
       "flag": "🇺🇸",
       "url": "https://inv.riverside.rocks"
