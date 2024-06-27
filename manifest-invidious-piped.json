@@ -87,14 +87,14 @@
     {
       "app": "Piped",
       "region": "North America",
-      "country": "13 Projects Egfau lt in 🇮🇳",
+      "country": "13 Projects Egfau lt 🇮🇳",
       "flag": "🇮🇳",
       "url": "https://pipedapi.in.projectsegfau.lt"
     },
     {
       "app": "Piped",
       "region": "North America",
-      "country": "14 Projects Egfau lt us 🇺🇸",
+      "country": "14 Projects Egfau lt 🇺🇸",
       "flag": "🇺🇸",
       "url": "https://pipedapi.us.projectsegfau.lt"
     },
@@ -150,30 +150,72 @@
     {
       "app": "Invidious",
       "region": "North America",
-      "country": "22 Flokinet to 🇷🇴",
-      "flag": "🇷🇴",
-      "url": "https://invidious.flokinet.to"
+      "country": "22 Materialio us 🇳🇿",
+      "flag": "🇳🇿",
+      "url": "https://invidious.materialio.us"
     },
     {
       "app": "Invidious",
       "region": "North America",
-      "country": "23 Projectsegfau lt 🇮🇳",
-      "flag": "🇮🇳",
-      "url": "https://inv.in.projectsegfau.lt"
-    },
-    {
-      "app": "Invidious",
-      "region": "North America",
-      "country": "24 Reallyaweso Me 🇩🇪",
+      "country": "23 Reallyaweso Me 🇩🇪",
       "flag": "🇩🇪",
       "url": "https://invidious.reallyaweso.me"
     },
     {
       "app": "Invidious",
       "region": "North America",
-      "country": "United States",
+      "country": "24 Protokolla fi 🇫🇮",
+      "flag": "🇫🇷",
+      "url": "https://invidious.protokolla.fi"
+    },
+    {
+      "app": "Invidious",
+      "region": "North America",
+      "country": "25 Fdn fr 🇫🇷",
+      "flag": "🇫🇷",
+      "url": "https://invidious.fdn.fr"
+    },
+    {
+      "app": "Invidious",
+      "region": "North America",
+      "country": "26 Private Coffee 🇦🇹",
+      "flag": "🇦🇹",
+      "url": "https://invidious.private.coffee"
+    },
+    {
+      "app": "Invidious",
+      "region": "North America",
+      "country": "27 Flokinet to 🇷🇴",
+      "flag": "🇷🇴",
+      "url": "https://invidious.flokinet.to"
+    },
+    {
+      "app": "Invidious",
+      "region": "North America",
+      "country": "28 Projectsegfau lt 🇪🇺",
+      "flag": "🇪🇺",
+      "url": "https://invidious.projectsegfau.lt"
+    },
+    {
+      "app": "Invidious",
+      "region": "North America",
+      "country": "29 Projectsegfau lt 🇺🇸",
       "flag": "🇺🇸",
-      "url": "https://inv.riverside.rocks"
+      "url": "https://inv.us.projectsegfau.lt"
+    },
+    {
+      "app": "Invidious",
+      "region": "North America",
+      "country": "30 Projectsegfau lt 🇮🇳",
+      "flag": "🇮🇳",
+      "url": "https://inv.in.projectsegfau.lt"
+    },
+    {
+      "app": "Invidious",
+      "region": "North America",
+      "country": "31 Einfachzocken eu 🇪🇺",
+      "flag": "🇪🇺",
+      "url": "https://invidious.einfachzocken.eu"
     },
     {
       "app": "Invidious",
