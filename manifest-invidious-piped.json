@@ -227,6 +227,13 @@
     {
       "app": "Invidious",
       "region": "North America",
+      "country": "33 Jing rocks 🇯🇵",
+      "flag": "🇯🇵",
+      "url": "https://invidious.jing.rocks"
+    },
+    {
+      "app": "Invidious",
+      "region": "North America",
       "country": "United States",
       "flag": "🇺🇸",
       "url": "https://inv.riverside.rocks"
