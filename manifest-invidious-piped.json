@@ -220,6 +220,13 @@
     {
       "app": "Invidious",
       "region": "North America",
+      "country": "32 Tux pizza 🇺🇸",
+      "flag": "🇺🇸",
+      "url": "https://inv.tux.pizza"
+    },
+    {
+      "app": "Invidious",
+      "region": "North America",
       "country": "United States",
       "flag": "🇺🇸",
       "url": "https://inv.riverside.rocks"
